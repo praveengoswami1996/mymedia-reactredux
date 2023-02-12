@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Marguerite Hoppe",
+      "id": 2
+    },
+    {
+      "name": "Brandy Osinski",
+      "id": 5
+    },
+    {
+      "name": "Claude Kiehn",
+      "id": 7
+    },
+    {
+      "name": "Woodrow Hoppe",
+      "id": 8
+    },
+    {
+      "name": "Terry Hamill",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Intelligent Plastic Hat",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Metal Ball",
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "title": "Recycled Concrete Bike",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Concrete Tuna",
+      "id": 16
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61108",
+      "id": 1
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26549",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=57047",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54811",
+      "id": 4
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15623",
+      "id": 5
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=21117",
+      "id": 7
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64010",
+      "id": 8
+    }
+  ]
+}
